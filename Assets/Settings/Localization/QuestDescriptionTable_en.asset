@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: QuestDescriptionTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4bc513bdb8919674cb5c269b3ddd4839, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6273081344
+    m_Localized: Look for a green pearl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136799821824
+    m_Localized: Survive the scene for 10minutes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51290388799488
+    m_Localized: Kill a specified enemy in the scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1476162830704640
+    m_Localized: 'Global task: Live for a total of 10 minutes'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2915510981246976
+    m_Localized: Survive the scene for 1minutes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2915553289191424
+    m_Localized: Survive the scene for 2minutes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2915581642686464
+    m_Localized: Survive the scene for 3minutes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2915603012665344
+    m_Localized: Survive the scene for 4minutes
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

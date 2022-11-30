@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: AblilityDescriptionTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: AblilityDescriptionTable
+  m_TableCollectionNameGuidString: c9d5b66c9c998b547b7db60780b6f95d
+  m_Entries:
+  - m_Id: 25603903488
+    m_Key: DES_HUANRAOFAQIU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29953396736
+    m_Key: DES_YUNSHI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33933791232
+    m_Key: DES_HUOQIUSHU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37180182528
+    m_Key: DES_HANBINGJIAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40862781440
+    m_Key: DES_SIWANGZHAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46034358272
+    m_Key: DES_HANBINGFAQIU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55622537216
+    m_Key: DES_XUANZHUANBINGQIU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298808283136
+    m_Key: DES_SHANDIANLINGYU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 327405047808
+    m_Key: DES_XUANZHUANDIANQIU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388885155840
+    m_Key: DES_LIANHUANSHUANGDONG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421034496000
+    m_Key: DES_HUOYANLUJING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4096964464640
+    m_Key: DES_SHANDIANCANXIANG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18720144727973888
+    m_Key: DES_JINZHANGONGJI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22709316169998336
+    m_Key: DES_HUOYANFUMO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22709656906866688
+    m_Key: DES_BAOYANFEIDAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22710580886872064
+    m_Key: DES_HUOYANJINGTONG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22711414676758528
+    m_Key: DES_NUANLIU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25368296059019264
+    m_Key: DES_JIZOU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25368905143263232
+    m_Key: DES_CHILIEZHIYAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25369645186260992
+    m_Key: DES_PAODONGSHEJI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25369859867516928
+    m_Key: DES_YIQIFENGFA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25617185051746304
+    m_Key: DES_CICHANG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25617565659668480
+    m_Key: DES_LINGNENGBUJI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25617782119309312
+    m_Key: DES_XIANXUEXIANYONG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25617942635323392
+    m_Key: DES_HUIHUN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25634922423623680
+    m_Key: DES_KUAISUSHEJI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25635052904226816
+    m_Key: DES_QINGXINGZIDAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25635238556704768
+    m_Key: DES_XIANGJIAOZIDAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25635396375781376
+    m_Key: DES_ZHANZISHEJI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33653841658880000
+    m_Key: DES_HUIXINGZHUOLUO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33653940476682240
+    m_Key: DES_LIUXINGYU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45614259130310656
+    m_Key: DES_JINJIGUIBI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45614842268590080
+    m_Key: DES_XUNJIEFASHU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45615057688043520
+    m_Key: DES_KUAISUYONGCHANG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46027148802629632
+    m_Key: DES_JIANZHAUNG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46027218931392512
+    m_Key: DES_HUOXINGTIZHI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46027264062103552
+    m_Key: DES_QIANGZHUANGTIPO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46027304730075136
+    m_Key: DES_CHENGZHANG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46337062334865408
+    m_Key: DES_MOLIWAIXIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46337216882384896
+    m_Key: DES_DUOCHONGSHIFA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48441671031431168
+    m_Key: DES_MODANZHAOHUAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52858966298304512
+    m_Key: DES_ZHAOHUANGENREN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53589813204852736
+    m_Key: DES_JICHUGONGJI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53621297479393280
+    m_Key: DES_ZHAOHUANKUSHUREN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53890719225978880
+    m_Key: DES_CHUIXUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53891221099618304
+    m_Key: DES_SANTUCHUANJILIU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53966795583234048
+    m_Key: DES_HUOZHIJUREN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53966946578178048
+    m_Key: DES_DIDILIUXINGYU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53967167802548224
+    m_Key: DES_BAREDIYU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54324624424935424
+    m_Key: DES_SHENMMI
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1652696042353

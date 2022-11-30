@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a0228c25582bd46b1423a709ce06cf, type: 3}
+  m_Name: BeadType
+  m_EditorClassIdentifier: 
+  _actionName:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  _typeColor: {r: 0.95169604, g: 1, b: 0, a: 0}
+  _type: 1
+  _actionType: 2
+  _tabType: {fileID: 11400000, guid: cdf9f0b14d2c2b843aa1c41bc20beaac, type: 2}
+  references:
+    version: 1

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AttributeName_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e4bfa85ebc25e9c4b92281a921cc1e2d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 52301209600
+    m_Localized: None
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248456224768
+    m_Localized: HP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355222233088
+    m_Localized: Recovery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430249943040
+    m_Localized: ATK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 560436944896
+    m_Localized: ATK Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 637377257472
+    m_Localized: MoveSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 676199735296
+    m_Localized: AttackSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 915337977856
+    m_Localized: Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 977745027072
+    m_Localized: Dodge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1035290877952
+    m_Localized: Vampirism
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1062671294464
+    m_Localized: Critical Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1156283965440
+    m_Localized: Critical Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1229097082880
+    m_Localized: Penetrate Damage
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

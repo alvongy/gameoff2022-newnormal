@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AbilityLevelUpTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 388b8bbab310e5a4384d3485acddee8b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 155296702464
+    m_Localized: 'Surround ball level Lv3 -> Lv4
+
+      Summons a spell ball around
+      you, dealing 1.6*Attack  damage to enemies it touches'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 151941259264
+    m_Localized: 'Surround ball level Lv2 -> Lv3
+
+      Summons a spell ball around
+      you, dealing 1.4*Attack  damage to enemies it touches'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144165019648
+    m_Localized: "Surround ball level Lv1 -> Lv2 \nSummons a spell ball around you,
+      dealing 1.2*Attack  damage to enemies it touches"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 517751676928
+    m_Localized: 'Surround ball level Lv4 -> Lv5
+
+      Summons a spell ball around
+      you, dealing 1.8*Attack  damage to enemies it touches'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2830393663791104
+    m_Localized: 'Fireball level Lv 1->2
+
+      Fire a fireball in the specified
+      direction, dealing 1.2*Attack damage to the first enemy it touches'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2832178650521600
+    m_Localized: 'Fireball level Lv 2->3
+
+      Fire a fireball in the specified
+      direction, dealing 1.4*Attack damage to the first enemy it touches'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2832183079706624
+    m_Localized: 'Fireball level Lv 3->4
+
+      Fire a fireball in the specified
+      direction, dealing 1.7*Attack damage to the first enemy it touches'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2832185260744704
+    m_Localized: 'Fireball level Lv 4->5
+
+      Fire a fireball in the specified
+      direction, dealing 2*Attack damage to the first enemy it touches'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2832877476093952
+    m_Localized: 'Frostbolt level Lv 4->5
+
+      Fire a fireball in the specified
+      direction, dealing 2.4*Attack damage to the first enemy it touches'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2832875932590080
+    m_Localized: 'Frostbolt level Lv 3->4
+
+      Fire a fireball in the specified
+      direction, dealing 2*Attack damage to the first enemy it touches'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2832874594607104
+    m_Localized: 'Frostbolt level Lv 2->3
+
+      Fire a fireball in the specified
+      direction, dealing 1.7*Attack damage to the first enemy it touches'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2832873214681088
+    m_Localized: 'Frostbolt level Lv 1->2
+
+      Fire a fireball in the specified
+      direction, dealing 1.4*Attack damage to the first enemy it touches'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2868735637954560
+    m_Localized: 'Meteor Shower level 1->2
+
+      Every 10 seconds, summons a meteorite
+      from the sky to fall into a random spot on the screen, inflicting 4.5 damage
+      and creating a burning area for 6 seconds, dealing 8/s fire damage to enemies
+      in the area.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2868739698040832
+    m_Localized: 'Meteor Shower level 1->2
+
+      Every 10 seconds, summons a meteorite
+      from the sky to fall into a random spot on the screen, inflicting 5 damage
+      and creating a burning area for 6 seconds, dealing 8/s fire damage to enemies
+      in the area.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2868741375762432
+    m_Localized: 'Meteor Shower level 1->2
+
+      Every 10 seconds, summons a meteorite
+      from the sky to fall into a random spot on the screen, inflicting 5.5 damage
+      and creating a burning area for 6 seconds, dealing 8/s fire damage to enemies
+      in the area.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2868742919266304
+    m_Localized: 'Meteor Shower level 1->2
+
+      Every 10 seconds, summons a meteorite
+      from the sky to fall into a random spot on the screen, inflicting 6 damage
+      and creating a burning area for 6 seconds, dealing 8/s fire damage to enemies
+      in the area.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2871989465751552
+    m_Localized: "Flame Path level Lv1->2 \nWhile moving, release a path of fire
+      that deals 4 damage per second to enemies in the path"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2871990640156672
+    m_Localized: 'Flame Path level Lv2->3
+
+      While moving, release a path of
+      fire that deals 5 damage per second to enemies in the path'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2871991676149760
+    m_Localized: 'Flame Path level Lv3->4
+
+      While moving, release a path of
+      fire that deals 6 damage per second to enemies in the path'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2871992653422592
+    m_Localized: 'Flame Path level Lv4->5
+
+      While moving, release a path of
+      fire that deals 7 damage per second to enemies in the path'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

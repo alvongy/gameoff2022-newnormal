@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InventoryTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 695d8fb6b434f3744b2e77fa249bfcc2, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 32780439552
+    m_Localized: TestItem_00
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1404552546734080
+    m_Localized: AssaultRifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412427092447232
+    m_Localized: Pistol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2544455909232640
+    m_Localized: Normal bullet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2544619243819008
+    m_Localized: Normal arrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4704964720840704
+    m_Localized: Cane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7622411585179648
+    m_Localized: Knife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76009895227113472
+    m_Localized: 'Fractured Soul
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98105754303045632
+    m_Localized: Ice Pray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98115160751185920
+    m_Localized: General Pray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98115325297926144
+    m_Localized: Test Pray
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

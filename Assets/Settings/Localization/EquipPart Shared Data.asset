@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: EquipPart Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: EquipPart
+  m_TableCollectionNameGuidString: 9751ed2422e13964fb28b2e501f2789e
+  m_Entries:
+  - m_Id: 9498337280
+    m_Key: WeaponHeavy_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 309969887232
+    m_Key: Weapon_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433714438144
+    m_Key: Weapon_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 541860372480
+    m_Key: Weapon_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610009423872
+    m_Key: Weapon_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 681778159616
+    m_Key: Weapon_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753580449792
+    m_Key: Clothes_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1059194216448
+    m_Key: Shoes_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1143713636352
+    m_Key: Glove_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1244641173504
+    m_Key: Helmet_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1371774722048
+    m_Key: Ornaments_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1443782533120
+    m_Key: Cloak_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2437375401984
+    m_Key: None_0
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1667291486440

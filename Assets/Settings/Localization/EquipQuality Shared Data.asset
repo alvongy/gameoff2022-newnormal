@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: EquipQuality Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: EquipQuality
+  m_TableCollectionNameGuidString: c991c3e98bc425b4b9093284e9180aca
+  m_Entries:
+  - m_Id: 7703175168
+    m_Key: 'Dilapidated
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 552014782464
+    m_Key: Ordinary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 633245868032
+    m_Key: HighQuality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696424669184
+    m_Key: Epic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 765379026944
+    m_Key: Legendary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 822589333504
+    m_Key: Mythical
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1667291254177

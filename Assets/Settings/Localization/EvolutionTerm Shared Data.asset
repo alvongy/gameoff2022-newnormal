@@ -1,0 +1,407 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: EvolutionTerm Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: EvolutionTerm
+  m_TableCollectionNameGuidString: 8b67fa4a2f6bb3b4ba44ba4e27e48eca
+  m_Entries:
+  - m_Id: 6772203520
+    m_Key: Benign_Attack_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 386163777536
+    m_Key: Benign_Defensive_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 544876240896
+    m_Key: Benign_MoveSpeed_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 630771392512
+    m_Key: Benign_AttackSpeed_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754520137728
+    m_Key: Benign_MaxHp_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 836430700544
+    m_Key: Benign_Dodge_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1348836237312
+    m_Key: Neutral_Enemy_AttackUp_DefensiveDown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788133216067584
+    m_Key: Neutral_SceneItem_Marsh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788491971665920
+    m_Key: Neutral_SceneItem_Trap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788755436871680
+    m_Key: Neutral_SceneItem_Spring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1811716768243712
+    m_Key: Neutral_SceneItem_Bangalore_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1811947480129536
+    m_Key: Neutral_SceneItem_TreasureBox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1812224534880256
+    m_Key: Neutral_SceneItem_Blood_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2143577981820928
+    m_Key: Benign_Roll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2143888591003648
+    m_Key: Benign_Attack_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2143941334376448
+    m_Key: Benign_Defensive_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2143981129932800
+    m_Key: Benign_MoveSpeed_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144043977383936
+    m_Key: Benign_AttackSpeed_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144171849129984
+    m_Key: Benign_MaxHp_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144211644686336
+    m_Key: Benign_Dodge_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144372303306752
+    m_Key: Benign_Attack_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144390590472192
+    m_Key: Benign_Defensive_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144414141489152
+    m_Key: Benign_MoveSpeed_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144435549216768
+    m_Key: Benign_AttackSpeed_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144451017809920
+    m_Key: Benign_MaxHp_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144475143446528
+    m_Key: Benign_Dodge_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144505073999872
+    m_Key: Benign_Attack_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144667410341888
+    m_Key: Benign_Defensive_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144689489158144
+    m_Key: Benign_MoveSpeed_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144703980478464
+    m_Key: Benign_AttackSpeed_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144712239063040
+    m_Key: Benign_MaxHp_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144817696448512
+    m_Key: Benign_Dodge_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2145057543528448
+    m_Key: Benign_Attack_Lv5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2145112774123520
+    m_Key: Benign_Defensive_Lv5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2145142197166080
+    m_Key: Benign_MoveSpeed_Lv5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2145172429709312
+    m_Key: Benign_AttackSpeed_Lv5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2145191757062144
+    m_Key: Benign_MaxHp_Lv5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2145213567442944
+    m_Key: Benign_Dodge_Lv5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2149134457348096
+    m_Key: Benign_Green_Shield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2149910663634944
+    m_Key: Benign_Green_DamageReduction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2853783485259776
+    m_Key: Benign_Blue_AttackUpper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2853997994549248
+    m_Key: Benign_Blue_DefenseUpper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2854259446489088
+    m_Key: Benign_Purple_DefenseUpper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2854574379999232
+    m_Key: Benign_Orange_Recover
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3144531586015232
+    m_Key: Neutral_Both_MaxhpUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3151646018985984
+    m_Key: Neutral_Player_MaxhpDown_AttackUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3152365270818816
+    m_Key: Neutral_Player_AttackspeedUp_DefensiveDown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3153204613963776
+    m_Key: Neutral_Injury_CriticalUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3153809780727808
+    m_Key: Neutral_Portal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3154161905131520
+    m_Key: Neutral_AllAttributesUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3154775045267456
+    m_Key: Malignancy_Attack_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3155329771331584
+    m_Key: Malignancy_Defensive_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3155534658887680
+    m_Key: Malignancy_Movespeed_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3155809297719296
+    m_Key: Malignancy_Attackspeed_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3155978848264192
+    m_Key: Malignancy_MaxHp_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3156194108334080
+    m_Key: Malignancy_Dodge_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3156390812803072
+    m_Key: Malignancy_MonsterNum_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3156685965975552
+    m_Key: Malignancy_Attack_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3156935988436992
+    m_Key: Malignancy_Defensive_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3157040552435712
+    m_Key: Malignancy_Movespeed_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3159001402138624
+    m_Key: Malignancy_Attackspeed_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3159178200440832
+    m_Key: Malignancy_MaxHp_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3159299470352384
+    m_Key: Malignancy_Dodge_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3159600189366272
+    m_Key: Malignancy_MonsterNum_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3160317222412288
+    m_Key: Malignancy_Attack_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3160413313916928
+    m_Key: Malignancy_Defensive_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3160489251790848
+    m_Key: Malignancy_Movespeed_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3160656323502080
+    m_Key: Malignancy_Attackspeed_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3160771486507008
+    m_Key: Malignancy_MaxHp_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3160882488762368
+    m_Key: Malignancy_Dodge_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161005734191104
+    m_Key: Malignancy_MonsterNum_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161130191773696
+    m_Key: Malignancy_Attack_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161294277140480
+    m_Key: Malignancy_Defensive_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161372899368960
+    m_Key: Malignancy_Movespeed_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161475877920768
+    m_Key: Malignancy_Attackspeed_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161574465036288
+    m_Key: Malignancy_MaxHp_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161689221193728
+    m_Key: Malignancy_Dodge_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161785828597760
+    m_Key: Malignancy_MonsterNum_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161883471994880
+    m_Key: Malignancy_Attack_Lv5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161996856614912
+    m_Key: Malignancy_Defensive_Lv5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3162083326386176
+    m_Key: Malignancy_Movespeed_Lv5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3162183251484672
+    m_Key: Malignancy_Attackspeed_Lv5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3162278210527232
+    m_Key: Malignancy_MaxHp_Lv5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3162382065688576
+    m_Key: Malignancy_Dodge_Lv5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3162485782437888
+    m_Key: Malignancy_MonsterNum_Lv5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3162595840974848
+    m_Key: Malignancy_Enemy_Violent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3162930349301760
+    m_Key: Malignancy_Enemy_Fireball
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4708339664248832
+    m_Key: Neutral_SceneItem_Blood_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4708536494546944
+    m_Key: Neutral_SceneItem_Blood_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4708599375552512
+    m_Key: Neutral_SceneItem_Blood_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4708663464517632
+    m_Key: Neutral_SceneItem_Blood_Lv5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4711113688834048
+    m_Key: Neutral_SceneItem_Bangalore_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4711258551705600
+    m_Key: Neutral_SceneItem_Bangalore_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4711327237627904
+    m_Key: Neutral_SceneItem_Bangalore_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4711424314793984
+    m_Key: Neutral_SceneItem_Bangalore_Lv5
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1668592593488

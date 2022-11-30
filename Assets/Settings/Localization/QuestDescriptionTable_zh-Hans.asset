@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: QuestDescriptionTable_zh-Hans
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: zh-Hans
+  m_SharedData: {fileID: 11400000, guid: 4bc513bdb8919674cb5c269b3ddd4839, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 6273081344
+    m_Localized: "\u5BFB\u627E1\u679A\u5B9D\u73E0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136799821824
+    m_Localized: "\u5728\u573A\u666F\u4E2D\u5B58\u6D3B10\u5206\u949F"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 51290388799488
+    m_Localized: "\u5728\u573A\u666F\u4E2D\u51FB\u6740\u67D0\u4E2A\u6307\u5B9A\u654C\u4EBA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1476162830704640
+    m_Localized: "\u5168\u5C40\u4EFB\u52A1\uFF1A\u5728\u573A\u666F\u4E2D\u5171\u5B58\u6D3B10\u5206\u949F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2915510981246976
+    m_Localized: "\u5728\u573A\u666F\u4E2D\u5B58\u6D3B1\u5206\u949F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2915553289191424
+    m_Localized: "\u5728\u573A\u666F\u4E2D\u5B58\u6D3B2\u5206\u949F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2915581642686464
+    m_Localized: "\u5728\u573A\u666F\u4E2D\u5B58\u6D3B3\u5206\u949F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2915603012665344
+    m_Localized: "\u5728\u573A\u666F\u4E2D\u5B58\u6D3B4\u5206\u949F"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00a0e7d91f000000

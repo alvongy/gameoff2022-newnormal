@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: BossDialogueTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1b02cfcb380011544ae9916879065206, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 53714853888
+    m_Localized: Disturb the order!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707539992289280
+    m_Localized: 'Why, Why,WHY?  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707804464128000
+    m_Localized: Quiet!I just started Dreaming!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150494289920
+    m_Localized: You give me death, I give you Power.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150506872832
+    m_Localized: 'Coward, fight me!     '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150506872833
+    m_Localized: You Get Stronger By the Orders of the decks.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150511067136
+    m_Localized: Move the Deck, Sinner!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150511067137
+    m_Localized: Use the Order well!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150511067138
+    m_Localized: Why are you here? Who shall be free?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150511067139
+    m_Localized: Why are you here? Who are you looking for?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150511067140
+    m_Localized: I was broken into pieces..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150511067141
+    m_Localized: Kill me and bring me peace.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150511067142
+    m_Localized: This place entraps ...like us
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150511067143
+    m_Localized: I lost and so will you...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150511067144
+    m_Localized: Free me, I will grant you my Power!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150511067145
+    m_Localized: Those Days are gone, and these..Remains
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150511067146
+    m_Localized: I see Why You are here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150511067147
+    m_Localized: You can not find her without killing me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3312150511067148
+    m_Localized: Is that my power you are using?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10560105374785536
+    m_Localized: Click one of the cards below and Finish it! I will say more then.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10560965542649856
+    m_Localized: You can replace the card with the soul ruby below.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10561159415963648
+    m_Localized: Now get come power by arranging the color tiles!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10853417423970304
+    m_Localized: "Fight Me\uFF01"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

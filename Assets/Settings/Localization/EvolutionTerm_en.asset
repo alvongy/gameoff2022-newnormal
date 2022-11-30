@@ -1,0 +1,422 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: EvolutionTerm_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 8b67fa4a2f6bb3b4ba44ba4e27e48eca, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6772203520
+    m_Localized: Player Attack +2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 386163777536
+    m_Localized: Player Defensive +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 544876240896
+    m_Localized: Player  MoveSpeed +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 630771392512
+    m_Localized: Player AttackSpeed +5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754520137728
+    m_Localized: Player MaxHp +10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 836430700544
+    m_Localized: Player Dodge +2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1348836237312
+    m_Localized: Enemy attack +10, defense -5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788133216067584
+    m_Localized: Added puddles to reduce player and enemy movement speed by 20%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788491971665920
+    m_Localized: Added traps that deal 5 damage to players and enemies as they pass
+      through
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788755436871680
+    m_Localized: A hot spring appears in the middle of the map. Both the player and
+      the enemy regenerate 1 health/second in the hot spring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1811716768243712
+    m_Localized: Added a powder keg that explodes after being hit with a one-second
+      delay, dealing 10 damage to all characters in range and triggering enemy attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1811947480129536
+    m_Localized: Every now and then there are treasure chests,  after the destruction
+      of the monster or a large number of gems
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1812224534880256
+    m_Localized: Health packs will appear from time to time on the field. Enemies
+      and players will recover 5 health when they pick them up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2143577981820928
+    m_Localized: Slightly increase the roll distance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144505073999872
+    m_Localized: Player Attack +8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2145057543528448
+    m_Localized: Player Attack +10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2143888591003648
+    m_Localized: Player Attack +4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2143941334376448
+    m_Localized: Player Defense +2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2143981129932800
+    m_Localized: Player MoveSpeed +2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144043977383936
+    m_Localized: Player AttackSpeed +8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144171849129984
+    m_Localized: Player MaxHp +20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144211644686336
+    m_Localized: Player Dodge +4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144372303306752
+    m_Localized: Player Attack +6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144390590472192
+    m_Localized: Player Defensive +3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144414141489152
+    m_Localized: Player MoveSpeed +3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144435549216768
+    m_Localized: Player AttackSpeed +10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144451017809920
+    m_Localized: Player MaxHp +30
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144475143446528
+    m_Localized: Player Dodge +6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144667410341888
+    m_Localized: Player Defensive +4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144689489158144
+    m_Localized: Player MoveSpeed +4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144703980478464
+    m_Localized: Player AttackSpeed +14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144712239063040
+    m_Localized: Player MaxHp +40
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2144817696448512
+    m_Localized: Player Dodge +8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2145213567442944
+    m_Localized: Player Dodge +10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2145191757062144
+    m_Localized: Player MaxHp +50
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2145172429709312
+    m_Localized: Player AttackSpeed +18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2145142197166080
+    m_Localized: Player MoveSpeed +5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2145112774123520
+    m_Localized: Player Defensive +5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2149134457348096
+    m_Localized: Hit 5% chance to gain shield, shield value is 10% Max health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2149910663634944
+    m_Localized: No damage within 10 seconds. Next time you take damage - 25%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2853783485259776
+    m_Localized: +1 damage per kill, up to a maximum of 15, resets per wave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2853997994549248
+    m_Localized: Each time the player receives damage defense +0.5, up to a maximum
+      of 5, reset per wave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2854259446489088
+    m_Localized: The player generates a shield every 10 seconds to defend against
+      the next damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2854574379999232
+    m_Localized: The player receives a blessing and restores 5 health per second,
+      but does not regain health by any other means
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3144531586015232
+    m_Localized: Player's maximum HP+100, enemy's maximum HP+30
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3151646018985984
+    m_Localized: Player MaxHP -100, attack+10, movespeed+8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3152365270818816
+    m_Localized: Player attackspeed +20, vampire +5, defensive -8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3153204613963776
+    m_Localized: Players receive 1 point of damage per second, critical hit rate+20,
+      and critical hit damage bonus+20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3153809780727808
+    m_Localized: There are two portals in the field. When players touch one, they
+      will be transferred to the other
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3154161905131520
+    m_Localized: Player's maximum HP will no longer change. Attack+10, defense+10,
+      attackspeed+20, movespeed+5, dodge+10, vampire+10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3154775045267456
+    m_Localized: Enemy Attack +2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3155329771331584
+    m_Localized: Enemy Defense +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3155534658887680
+    m_Localized: Enemy Movespeed +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3155809297719296
+    m_Localized: Enemy Attackspeed +5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3155978848264192
+    m_Localized: Enemy MaxHp +5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3156194108334080
+    m_Localized: Enemy Dodge +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3156390812803072
+    m_Localized: Number of enemy+10%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3156685965975552
+    m_Localized: Enemy attack +4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3156935988436992
+    m_Localized: Enemy defensive +2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3157040552435712
+    m_Localized: Enemy movespeed +2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3159001402138624
+    m_Localized: Enemy attackspeed +8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3159178200440832
+    m_Localized: Enemy MaxHp +10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3159299470352384
+    m_Localized: Enemy dodge +2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3159600189366272
+    m_Localized: Number of enemy+20%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3160317222412288
+    m_Localized: Enemy attack +6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3160413313916928
+    m_Localized: Enemy defensive +3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3160489251790848
+    m_Localized: Enemy movespeed +3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3160656323502080
+    m_Localized: Enemy attackspeed +10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3160771486507008
+    m_Localized: Enemy MaxHp +15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3160882488762368
+    m_Localized: Enemy dodge +3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161005734191104
+    m_Localized: Number of enemy+30%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161130191773696
+    m_Localized: Enemy attack +8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161294277140480
+    m_Localized: Enemy defensive +4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161372899368960
+    m_Localized: Enemy movespeed +4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161475877920768
+    m_Localized: Enemy attackspeed +14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161574465036288
+    m_Localized: Enemy MaxHp +20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161689221193728
+    m_Localized: Enemy dodge +4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161785828597760
+    m_Localized: Number of enemy+40%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161883471994880
+    m_Localized: Enemy attack +10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3161996856614912
+    m_Localized: Enemy defensive +5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3162083326386176
+    m_Localized: Enemy movespeed +5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3162183251484672
+    m_Localized: Enemy attackspeed +18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3162278210527232
+    m_Localized: Enemy MaxHp +25
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3162382065688576
+    m_Localized: Enemy dodge +5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3162485782437888
+    m_Localized: Number of enemy+50%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3162595840974848
+    m_Localized: When the monster's HP is reduced to 20%, attack increases by 15
+      and defense decreases by 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3162930349301760
+    m_Localized: Each enemy will fire a fireball at the player when it appears
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4708339664248832
+    m_Localized: Health packs will appear from time to time on the field. Enemies
+      and players will recover 10 health when they pick them up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4708536494546944
+    m_Localized: Health packs will appear from time to time on the field. Enemies
+      and players will recover 15 health when they pick them up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4708599375552512
+    m_Localized: Health packs will appear from time to time on the field. Enemies
+      and players will recover 20 health when they pick them up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4708663464517632
+    m_Localized: Health packs will appear from time to time on the field. Enemies
+      and players will recover 25 health when they pick them up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4711113688834048
+    m_Localized: Added a powder keg that explodes after being hit with a one-second
+      delay, dealing 20 damage to all  in range and triggering enemy attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4711258551705600
+    m_Localized: Added a powder keg that explodes after being hit with a one-second
+      delay, dealing 30 damage to all  in range and triggering enemy attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4711327237627904
+    m_Localized: Added a powder keg that explodes after being hit with a one-second
+      delay, dealing 40 damage to all in range and triggering enemy attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4711424314793984
+    m_Localized: Added a powder keg that explodes after being hit with a one-second
+      delay, dealing 50 damage to all  in range and triggering enemy attacks
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

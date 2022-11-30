@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Interaction Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Interaction
+  m_TableCollectionNameGuidString: 9162d7e0e6944294ca16a1fe138b14de
+  m_Entries:
+  - m_Id: 6767366144
+    m_Key: None
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141329027072
+    m_Key: Operate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214934867968
+    m_Key: Talk
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1638263193859

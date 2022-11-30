@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a992a44f8d5ac4943b319da0b3331582, type: 3}
+  m_Name: New Radial Projectile
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: DataPack
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[MFAbility+AbilityDataUpgrade+UpgradeType,
+        Assembly-CSharp],[MFAbility+AbilityData, Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[MFAbility+AbilityDataUpgrade+UpgradeType,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 5
+    - Name: $v
+      Entry: 7
+      Data: 2|MFAbility+AbilityData, Assembly-CSharp
+    - Name: Data
+      Entry: 4
+      Data: 1
+    - Name: DataRatio
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 7
+      Data: 3|MFAbility+AbilityData, Assembly-CSharp
+    - Name: Data
+      Entry: 4
+      Data: 1
+    - Name: DataRatio
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 7
+      Data: 4|MFAbility+AbilityData, Assembly-CSharp
+    - Name: Data
+      Entry: 4
+      Data: 1
+    - Name: DataRatio
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 8
+    - Name: $v
+      Entry: 7
+      Data: 5|MFAbility+AbilityData, Assembly-CSharp
+    - Name: Data
+      Entry: 4
+      Data: 0.1
+    - Name: DataRatio
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: DataPackUpgrade
+      Entry: 7
+      Data: 6|System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[System.Collections.Generic.List`1[[MFAbility+AbilityDataUpgrade,
+        Assembly-CSharp]], mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 7|System.Collections.Generic.GenericEqualityComparer`1[[System.Int32,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  AID: 0
+  AdvancedAbiltyIDArray: 
+  Front: {fileID: 0}
+  Description:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  type: 0
+  state: 0
+  ablilityName:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  inputName: 
+  effectsOnTarget: []
+  effectsOnSelf: []
+  projectileVisualPrefab: {fileID: 0}
+  projectileHitPrefab: {fileID: 0}
+  projectileFadePrefab: {fileID: 0}
+  HitPrefabTime: 1
+  FadePrefabTime: 1
+  damageZoneConfig:
+    damageZoneCastSize: {x: 1, y: 0.5, z: 1}
+    damageZoneTargetLayer:
+      serializedVersion: 2
+      m_Bits: 0
+    damageZoneType: 0
+  projectileMovement:
+    direction: {x: 0, y: 0, z: 0}
+    distance: 0
+    axis: {x: 0, y: 0, z: 0}
+    radius: 0
+    angularVel: 0
+    SpawnOffset: 0
+  HitInterval: 5
+  IsPlayingAttack: 0
+  PlayingAttackRadius: 1
+  projectileSpawnInterval: 1
+  references:
+    version: 1

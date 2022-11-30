@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de81a60c1bfee324581d5faed4184b1a, type: 3}
+  m_Name: DeckLevel
+  m_EditorClassIdentifier: 
+  _guid: 405fa14d3c002ae41a6ebca2d76f0066
+  description: deck level
+  sceneType: 4
+  sceneReference:
+    m_AssetGUID: fc70b0498fd6ecd49956cac78e178ab1
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0

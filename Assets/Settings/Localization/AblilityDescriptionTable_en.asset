@@ -1,0 +1,272 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AblilityDescriptionTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c9d5b66c9c998b547b7db60780b6f95d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 25603903488
+    m_Localized: Generate a sphere that rotates around you and deals 5 damage to
+      enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29953396736
+    m_Localized: Every 8 seconds, summons a meteorite from the sky to fall into a
+      random spot on the screen, inflicting 15 damage and creating a burning area
+      for 6 seconds, dealing 1/s fire damage to enemies in the area.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33933791232
+    m_Localized: Fire a fireball in the specified direction, dealing 3 damage to
+      the first enemy it touches
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37180182528
+    m_Localized: Fire a fireball in the specified direction, dealing 10 damage to
+      the first enemy it touches
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40862781440
+    m_Localized: Generate a moving blade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46034358272
+    m_Localized: Shoot a frost ball towards a random direction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55622537216
+    m_Localized: Generate a frost ball that rotates around you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298808283136
+    m_Localized: Thunder strikes in this area
+    m_Metadata:
+      m_Items: []
+  - m_Id: 327405047808
+    m_Localized: Lightning strikes around you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388885155840
+    m_Localized: Bounce between targets and deal damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421034496000
+    m_Localized: When you move, leave a flame trail that deal 2  damage to enemies
+      it touches
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4096964464640
+    m_Localized: When you move, leave a flame trail that deal damage to enemies it
+      touches
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18720144727973888
+    m_Localized: Random melee attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22709316169998336
+    m_Localized: Bullets fired have a 50% chance to cause 3 damage per second as
+      they burn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22709656906866688
+    m_Localized: Each time you release your main skills, you have a 20% chance to
+      release an explosive missile. When you hit the target, you will cause 35 points
+      of fire damage and ignite the target area, causing 3 / s fire damage to nearby
+      enemies within 6 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22710580886872064
+    m_Localized: Burn damage increased by 35%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22711414676758528
+    m_Localized: Gives an enemy a 0.05% chance to regenerate 1 health while enchant
+      burn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25368296059019264
+    m_Localized: Movement speed +10%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25368905143263232
+    m_Localized: "Movement speed +10% \nEvery 8 seconds, as you move, you create
+      a flaming path that lasts 5 seconds, dealing 3/s fire damage to the target
+      in it."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25369645186260992
+    m_Localized: Movement speed while shooting +20%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25369859867516928
+    m_Localized: Increases bullet damage and movement speed by 10% every 10 seconds
+      (up to 40%)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25617185051746304
+    m_Localized: PickUp range +20%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25617565659668480
+    m_Localized: "PickUp range +20% \nYou have a 10% chance to reload one bullet
+      per pickup experience."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25617782119309312
+    m_Localized: "PickUp range +10% \nExperience in obtaining +25%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25617942635323392
+    m_Localized: "PickUp range +15% \nPicking up spirits has a 2% chance to restore
+      1 health."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25634922423623680
+    m_Localized: Rate of + 25%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25635052904226816
+    m_Localized: 'Fire rate +15%
+
+      Ballistic speed +15%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25635238556704768
+    m_Localized: 'The bullet ejects +1
+
+      Rate of fire +10%
+
+      Bullet damage
+      -10%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25635396375781376
+    m_Localized: Standing shots have a 30% chance of not consuming bullets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33653841658880000
+    m_Localized: "Meteorite improved: \nFalling base damage +15, skill range +30%
+      \nMeteor fall damage is now treated as Fire damage"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33653940476682240
+    m_Localized: "Meteorite gains the following attributes: \nSkill damage -80% \nSkill
+      range -80% \nDuration -80% \nCast speed +500%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45614259130310656
+    m_Localized: 'Roll cooldown increased by 1 second.
+
+      When you use Tumbling,
+      gain 0.5s of invincibility'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45614842268590080
+    m_Localized: "Skills CD - 20% \nAll skills damage -5%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45615057688043520
+    m_Localized: 'Skills CD - 10% '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46027148802629632
+    m_Localized: Health cap +10%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46027218931392512
+    m_Localized: 'The amount of treatment received increased by 30%
+
+      Monsters
+      have a 5% increased chance to blast a health orb after death'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46027264062103552
+    m_Localized: Each orb of life absorbed increases your skill damage by 1%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46027304730075136
+    m_Localized: Restore 10% Max health and increase maximum health by 10% for every
+      5 levels.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46337062334865408
+    m_Localized: Every 5 times you cast a skill, you will cast the current skill
+      in a random direction (if any) from the forehead
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46337216882384896
+    m_Localized: Each time active skills are used, there is a 5% probability of multiple
+      additional skill releases, and the number of releases is equal to the number
+      of active skills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48441671031431168
+    m_Localized: 'Summon a magic bullet that surrounds the character. When the enemy
+      enters the magic bullet''s range, the magic bullet will attack the corresponding
+      target. Each magic bullet will cause 1 * [attack power] points of damage when
+      it hits.
+
+      Up to 7 magic bullets surround the character.
+
+
+      Up to
+      7 magic bullets surround the character'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52858966298304512
+    m_Localized: Summon 1 Root to help you fight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53589813204852736
+    m_Localized: Shoot an ordinary bullet in the specified direction, causing 3 points
+      of damage to the first enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53621297479393280
+    m_Localized: Summon 1 Dead Tree Man to help you fight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53890719225978880
+    m_Localized: "Deals damage to the sector ahead and give\r 1 layer of Sluggishness"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53891221099618304
+    m_Localized: Deals 2.5 (+0.2) * Damage to a wide line area and causes a knockback
+      effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53966795583234048
+    m_Localized: Deals damage to enemies in front of a circle, like a giant's tread,
+      and grants 1 (+1) tiers of Burn.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53966946578178048
+    m_Localized: Randomly drop a large number of small meteorites on the screen,
+      each of which deals damage to a small area of enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53967167802548224
+    m_Localized: Deals damage to an area around the character in 8 directions and
+      grants Burn.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54324624424935424
+    m_Localized: An unknown and mysterious force
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

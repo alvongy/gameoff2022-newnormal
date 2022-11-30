@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: InventoryDescriptionTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: InventoryDescriptionTable
+  m_TableCollectionNameGuidString: 8e65baeb60e6a564ead2f44f5447299d
+  m_Entries:
+  - m_Id: 8046628864
+    m_Key: TestItem_00 description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1403972289941504
+    m_Key: AssaultRifle description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412107205464064
+    m_Key: Pistol description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2544031860903936
+    m_Key: NormalBullet description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2544375001108480
+    m_Key: NormalArrow description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4704296656293888
+    m_Key: Cane description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7621383796150272
+    m_Key: Knife description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98105238609174528
+    m_Key: Pray_Ice description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98114685691731968
+    m_Key: Pray_General description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98115149405593600
+    m_Key: Pray_Test description
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1637833147584

@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AbilityTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e38da825a095ba44fa021b8714e4149e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 19236950016
+    m_Localized: Sorcery Sphere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 540853178368
+    m_Localized: Meteor Shower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 558024658944
+    m_Localized: Fireball
+    m_Metadata:
+      m_Items: []
+  - m_Id: 560868397056
+    m_Localized: Frost Arrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 566786560000
+    m_Localized: Death Slash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 787268538368
+    m_Localized: Frost Shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 836278980608
+    m_Localized: Frost Field
+    m_Metadata:
+      m_Items: []
+  - m_Id: 882630234112
+    m_Localized: Thunder Wrath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 927878385664
+    m_Localized: Lightning Field
+    m_Metadata:
+      m_Items: []
+  - m_Id: 975647313920
+    m_Localized: Frost Chain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1031859376128
+    m_Localized: Flame Trail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5857234161664
+    m_Localized: SHANDIANCANXIANG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18722359572144128
+    m_Localized: Melee attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22712652222930944
+    m_Localized: Flame enchant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22712775195729920
+    m_Localized: Fire nova
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22713003969847296
+    m_Localized: Fire master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22713132281995264
+    m_Localized: Warm current
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25370050041454592
+    m_Localized: Scoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25371124953489408
+    m_Localized: BlazingFlame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25371324975652864
+    m_Localized: RunningShooting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25371425940938752
+    m_Localized: Perky
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25618648721235968
+    m_Localized: MagneticField
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25618762533675008
+    m_Localized: Supply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25618842292559872
+    m_Localized: PracticeLearning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25618923292958720
+    m_Localized: BackToSoul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25636030634237952
+    m_Localized: SnapShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25636121260564480
+    m_Localized: LittleBullet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25636546147753984
+    m_Localized: RubberBullet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25636614187753472
+    m_Localized: StandingShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33655520890429440
+    m_Localized: Comets falling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33655621075574784
+    m_Localized: Meteor shower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45651571214098432
+    m_Localized: Emergency Avoidance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46005357694656512
+    m_Localized: Swiftness magic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46006157946888192
+    m_Localized: Rapid singing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46028532381884416
+    m_Localized: StrongBody
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46028640724951040
+    m_Localized: ActiveBody
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46028764133957632
+    m_Localized: StrongPhysique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46028915770630144
+    m_Localized: GrowUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46338728375328768
+    m_Localized: MagicLeakage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46338793265405952
+    m_Localized: Multiple casting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48443010016845824
+    m_Localized: Magic bullet summon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52860703671296000
+    m_Localized: Summon Root Man
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53591604030054400
+    m_Localized: Basic Attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53623329846173696
+    m_Localized: Summon the dead tree man
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53892476874235904
+    m_Localized: Drifting Snow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53893299410804736
+    m_Localized: Sanzu River Rapids
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53968447262400512
+    m_Localized: Eight Hell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53968342098616320
+    m_Localized: Subterranean Meteor Shower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53968295667671040
+    m_Localized: Giant of Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54326388305928192
+    m_Localized: Mystical Power
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

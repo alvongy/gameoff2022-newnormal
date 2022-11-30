@@ -1,0 +1,1101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 664c64ba7709a744ab18ebe78a0f37f1
+  m_SerializeEntries:
+  - m_GUID: 9e3ec2be9a476dd4aa6dc8d4fe86b3df
+    m_Address: Assets/ScriptableObjects/EventChannels
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55ae8370115329c4b8cc99a47a47abaa
+    m_Address: Settings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7ab6b021a174fe4aabc2f9da9b18abc
+    m_Address: ScriptableObjects
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31cd311b4c74cc343922ac7b00df01fe
+    m_Address: Assets/Settings/Input/GameInput.inputactions
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ad33111d2ccbbb438b8b05c622220eb
+    m_Address: Assets/Settings/InputSystem.inputsettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45c9f43e9b5ad824c9a6bd77f13e8122
+    m_Address: Assets/ScriptableObjects/Input/InputReader.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7267534bb1625347a3c2a665266dc64
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Character_Sword/Character_Sword.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5dcb7a2efaa980f4b8d5fe70d4871354
+    m_Address: Assets/Sword/Sword_New11_18.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5ffd01aa71c8c5408073996b9b5027f
+    m_Address: Assets/Sword/Audio/music_8bit_jammer.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bafd2022f359e37499986a5ea9ce6500
+    m_Address: Assets/Sword/Audio/rain_light_hard_surface_loop_01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 276e169a75a2f5e4a9a5b10f5675c112
+    m_Address: Assets/Sword/Audio/footstep_concrete_land_06.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 270ba0675e4b4aa4283cb97b2c346570
+    m_Address: Assets/Sword/Audio/footstep_concrete_land_07.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79711aaf5b3dbaa40832727226bf6c71
+    m_Address: Assets/Sword/Audio/explosion_large_no_tail_05.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbfc66e0007444b47b7855b2624265b0
+    m_Address: Assets/Sword/Audio/attack/whoosh_swish_high_big_02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2216a76153c6e54b97bfee5c353db36
+    m_Address: Assets/Sword/Audio/attack/whoosh_swish_high_big_05.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f016681969a28e74bb2f416e9f8063ba
+    m_Address: Assets/Sword/Audio/hit/bone_break_neck_snap_crack_01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3722cc8b91b7d7e41b9b13c7b40e6e49
+    m_Address: Assets/Sword/Audio/monster/ghost_witch_voice_hiss_01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9646a0cf32c49bc4d820b95ce960e227
+    m_Address: Assets/Sword/Audio/monster/ghost_witch_voice_hiss_02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92a31e742661fcb4c85caf0b0c0890ca
+    m_Address: Assets/Sword/Audio/monster/ghost_witch_voice_hiss_03.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc40134a334e75049bb05606869b616a
+    m_Address: Assets/Sword/Audio/monster/ghost_witch_voice_hiss_04.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a72df5b57b479da49ac61ab1c8b2c233
+    m_Address: Assets/Sword/Audio/monster/ghost_witch_voice_hiss_05.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0175dc8441f3d2945baa9fe6cb910925
+    m_Address: Assets/Sword/Audio/monster/ghost_witch_voice_hiss_06.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f87ebc2772af27a4ea2b203682f1833e
+    m_Address: Assets/Sword/Audio/monster/ghost_witch_voice_hiss_07.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3bfaccc3b981d3f4393c10775922e32e
+    m_Address: Assets/Sword/Audio/monster/ghost_witch_voice_hiss_08.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 730985fd4d3fb1c4fb2231f655ad81bc
+    m_Address: Assets/Sword/Audio/monster/ghost_witch_voice_hiss_09.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c04a7e6c23a0e7e4fa3f7bf4b711c341
+    m_Address: Assets/Sword/Audio/monster/ghost_witch_voice_hiss_10.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 120b38396531eda49ab1b2170a11906e
+    m_Address: Assets/Sword/Audio/monster/ghost_witch_voice_hiss_11.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf96ab135d29f524a9bae6f1dc633bb1
+    m_Address: Assets/Sword/Audio/monster/ghost_witch_voice_hiss_12.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ca74395e8f18e5459f1563f2758bbaa
+    m_Address: Assets/Sword/Audio/pain/voice_male_grunt_pain_01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f033d4d6f6ef4b44787b471008f0ea2a
+    m_Address: Assets/Sword/Audio/pain/voice_male_grunt_pain_03.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1ca45fde8c16cc4fa4d60d2e2dea31f
+    m_Address: Assets/Sword/Audio/pain/voice_male_grunt_pain_02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 718fb487264c2f943b541bb204e70b88
+    m_Address: Assets/Sword/Audio/rol/whoosh_swish_high_big_04.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad61ac8a7cd4fa749b68987a24041578
+    m_Address: Assets/Sword/Audio/rol/whoosh_swish_high_big_05.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb7b96b9abe331d4a82f381a66fab593
+    m_Address: Assets/Sword/ScriptableObjects/CaptureDataSO.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4d8c38f9b5ac5c4fa0519ad65755798
+    m_Address: Assets/Sword/ScriptableObjects/Characters/CharacterDatabase.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 757ba31da0f3ee848a8e58edf0b7402c
+    m_Address: Assets/Sword/ScriptableObjects/Characters/Soldier_1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dbd4c9e6f5ac9143b9aca82653168c5
+    m_Address: Assets/Sword/ScriptableObjects/DegreeOfDifficulty/DegreeOfDifficulty
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0a7b08d7435ca84da1c0fd23475b3e5
+    m_Address: Assets/Sword/ScriptableObjects/DegreeOfDifficulty/DegreeOfDifficulty
+      2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2dc6002d99522a94590137d026a4b553
+    m_Address: Assets/Sword/ScriptableObjects/DegreeOfDifficulty/DegreeOfDifficulty
+      3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d191b7251f2a9b945bc8e9bad7f990fd
+    m_Address: Assets/Sword/ScriptableObjects/DegreeOfDifficulty/DegreeOfDifficulty
+      4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 571d4afea7285cd4294c3e1a644f84a1
+    m_Address: Assets/Sword/ScriptableObjects/DegreeOfDifficulty/DegreeOfDifficulty
+      5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb485f97afc0f0c468a969f8b2cde301
+    m_Address: Assets/Sword/ScriptableObjects/DegreeOfDifficulty/DegreeOfDifficulty
+      6.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1713b01bbedc1e94884177662bd95983
+    m_Address: Assets/Sword/ScriptableObjects/DegreeOfDifficulty/DegreeOfDifficultyDatabase.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 132337e1d5b437447b415ae3677ff042
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24b2edb06e52fee458005ae2a705daad
+    m_Address: Assets/Sword/ScriptableObjects/Shop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 250023019394ba84d9a3c0f61affef76
+    m_Address: Assets/Sword/ScriptableObjects/Enemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 785f9642ebe6c294ab07627953a9fd1b
+    m_Address: Assets/Sword/ScriptableObjects/Characters
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8588884a08022645a89419c21d9592f
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ad129df3ff38c14095e2a14320f0fcc
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d9e8ec8b230cc74295eda536c7a45dd
+    m_Address: Assets/Sword/ScriptableObjects/Equip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ea8c9e197134f14880feebc73a8a069
+    m_Address: Assets/Sword/ScriptableObjects/DegreeOfDifficulty
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97572ede2bf50cd459c6f564dd15ec8e
+    m_Address: Assets/Sword
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68ebe667fd1c7424dae2e8a07df5aef2
+    m_Address: Assets/Sword/Prefab/UIDragTarget_Equip.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cfd6416d187ded49be628d21fadb06a
+    m_Address: Assets/Sword/Prefab/EquipItem_Drag_Briefly.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9298137bdb7dad4f87debf0617d2b2f
+    m_Address: Assets/Sword/Prefab/UIMessageText.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 291fea5cf4ac1ca4c84c1cee20a97ee6
+    m_Address: Assets/Sword/Prefab/MetaDataManager.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6767da48c04aeb24db99a23137a45a25
+    m_Address: Assets/Sword/Prefab/EquipInfoCard_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24fbfc4cc268aef4d884053993961e13
+    m_Address: Assets/Sword/Prefab/Projectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fae56b13f52f054fa767d3df189ec9c
+    m_Address: Assets/Sword/Prefab/EquipItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91204f5e27675444cb3e87a5fe085938
+    m_Address: Assets/Sword/Prefab/EquipItem_Drag.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5601196a9f1976f478cd34e65a2455af
+    m_Address: Assets/Sword/Prefab/Shop/EquipItem_Shop.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6fd844664ecbf247a929031da66c004
+    m_Address: Assets/Sword/Prefab/SceneProps/SceneItem_Marsh.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6eee5c8e2f8da8642a16ea2d45ab4f6f
+    m_Address: Assets/Sword/Prefab/SceneProps/SceneItem_Damage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d5c3058622b24349828e2f67c002ef2
+    m_Address: Assets/Sword/Prefab/SceneProps/SceneItem_Gold.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0aa4de8ce2e8e64b9fa6c9fa6947a8d
+    m_Address: Assets/Sword/Prefab/SceneProps/SceneItem_Bangalore.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f756fbbe9e333614e8f78c20272ca08e
+    m_Address: Assets/Sword/Prefab/SceneProps/SceneItem_Blood.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7200f399491e0b94f88dd27070f1181e
+    m_Address: Assets/Sword/Prefab/SceneProps/SceneItem_TreasureBox.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 904f6c3b0efa83e4d98ef4c145cc19a4
+    m_Address: Assets/Sword/Prefab/SceneProps/SceneItem_Speed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49ebef3060ce2ab468814ea2eec87bd2
+    m_Address: Assets/Sword/Prefab/NewNormal/Level_EvolutionTerm.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fab5322b515e384c83e952c85320433
+    m_Address: Assets/Sword/Prefab/NewNormal/Level_Shop.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de77ae86ca55c424da26c2558e160980
+    m_Address: Assets/Sword/Prefab/NewNormal/Level_GameLevel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fdfc8df65209f5409e8edff67fba777
+    m_Address: Assets/Sword/Prefab/NewNormal/SpawnManager.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aed830362648b4846b850022e1f6f344
+    m_Address: Assets/Sword/Prefab/EvolutionTerm/EvolutionTermCardPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d98bd271b8370a441ac1fd018a9804da
+    m_Address: Assets/Sword/Prefab/EvolutionTerm/EvolutionTerm_LearendPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd145ae561094c54c82395f380c8f43f
+    m_Address: Assets/Sword/Prefab/Enemy/Monster_Bat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cdf1076216b512d489ba6b3ec8e7e9de
+    m_Address: Assets/Sword/Prefab/Enemy/Monster_DarkMage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7704243ba11128c4aa334c3ce753c1e7
+    m_Address: Assets/Sword/Prefab/Enemy/Monster_Tauren.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07692c8f0fdb4cf478baff12ffb15ea1
+    m_Address: Assets/Sword/Prefab/Enemy/Projectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70bf0bdd0f50fb047a30b53a302927d2
+    m_Address: Assets/Sword/Prefab/Enemy/Monster_ArmoredSoldier.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00eb6aa890463dc42b4c1eabb4ab41c7
+    m_Address: Assets/Sword/ScriptableObjects/Equip/10_Helmet 01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 145bf37a474e525418c0b6ce20559bbf
+    m_Address: Assets/Sword/ScriptableObjects/Equip/12_Cloak 01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46f4ec7903c9ead48a1d6c8d8f2bc0d4
+    m_Address: Assets/Sword/ScriptableObjects/Equip/07_Clothes 01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86434dd0ddf42cd4f8d48e84b949876e
+    m_Address: Assets/Sword/ScriptableObjects/Equip/11_Ornaments 01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 381b6ea59b157194d96bdbf899011453
+    m_Address: Assets/Sword/ScriptableObjects/Equip/08_Shoes 01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 688b3662176755246853e66ed8ecf319
+    m_Address: Assets/Sword/ScriptableObjects/Equip/09_Glove 01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 693eeea0a6969e0478e35e961f1868d2
+    m_Address: Assets/Sword/ScriptableObjects/Equip/01_Weapon-Heavy 01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9f4cf165aa07fc4ab81e1cfd2a9c191
+    m_Address: Assets/Sword/ScriptableObjects/Equip/01_Weapon-Heavy 03.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a24e3cea59d73f418cd24e0d72b6e6e
+    m_Address: Assets/Sword/ScriptableObjects/Equip/01_Weapon-Heavy 02.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a38711cee183384a9af582c169f3664
+    m_Address: Assets/Sword/ScriptableObjects/Equip/EquipDatabase.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 085872187d6868e428e168ae30500b90
+    m_Address: Assets/Sword/ScriptableObjects/Enemy/ArmoredSoldier_4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9b638cb180b5c64e88ad750217b81b7
+    m_Address: Assets/Sword/ScriptableObjects/Enemy/Bat_1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e5f830263e9af34496b9393fcd8ca4b
+    m_Address: Assets/Sword/ScriptableObjects/Enemy/Boss_101.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38850aa277c37004183b262f3787142c
+    m_Address: Assets/Sword/ScriptableObjects/Enemy/DarkMageElite_6.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3b85764d580fee43984e7b8c850f997
+    m_Address: Assets/Sword/ScriptableObjects/Enemy/DarkMage_3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 544223ef49a247a498888139db6c8dd0
+    m_Address: Assets/Sword/ScriptableObjects/Enemy/TaurenElite_5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e84620ff4240d0b45b93db9235bceafa
+    m_Address: Assets/Sword/ScriptableObjects/Enemy/Tauren_2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca028a89de508ea48894e390018d5150
+    m_Address: Assets/Sword/ScriptableObjects/Enemy/EnemyDatabase.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f933c798987b81f43982daead1556c19
+    m_Address: Assets/Sword/ScriptableObjects/Enemy/EnemyWaveDatabase.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20426afa927bd4343b0f8767692e9ec5
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_Attack_Lv1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40ba10196a3803049bcf52ccd2498169
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Defensive_Lv3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0417ac7173f3f140a970794636ed08b
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Attackspeed_Lv5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01677614f6715c445a9d7c3d6f2d462d
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_Player_MaxhpDown_AttackUp.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 011dc8eddf4a3364dad4d0059d4c10a0
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Movespeed_Lv1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 116510b60e3b6c5459d0bce4a3bffb50
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Defensive_Lv4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21d20bc484affa841bf7a7ecea971f15
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Dodge_Lv4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41c275a1bd0b08547b5533a5065e22f0
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_Attack_Lv5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1b3287bf1b26eb4cbd15e12ea3352fc
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_EvolutionTerm_HotSpringItem.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02028c175a3260b4e88fed36453bed80
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_AttackSpeed_Lv5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02fbe7c98763a144d896997ca15075b8
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_AttackSpeed_Lv2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6211f1ec065be0043a25adfa4993894d
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Attack_Lv4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 236b20e7214984a49b3510ac36e1a48e
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_Defensive_Lv4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4302807325e4cd445958fa2b8f634474
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_Defensive_Lv5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3e852aa8431b4241b79e41bd0dd6278
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Attackspeed_Lv4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3da27dac36d5f64c9e24a58a47536d5
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_MaxHp_Lv1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e37d564dc1e347c42af7881472ea0f19
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_MoveSpeed_Lv4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 148b98bd606787b43a0674de3ba11f9b
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Defensive_Lv5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7431df2328dae124b9f9cdc1e4821eb7
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_Defensive_Lv1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7449838f032ddfb4794f71e839f560bf
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_Defensive_Lv2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4c57d6460cbf9642bcfd5bce1b3ad8c
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_Attack_Lv4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c493ce0bd65c24e459a4b8bfdc9a5386
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_MaxHp_Lv4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d495bc8aa629f79409b569395c21432a
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_EvolutionTerm_Blood_Lv5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5f56743ae6485a46b8edc1b803ad199
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_Player_AttackspeedUp_DefensiveDown.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5570c171f7abd34d86b6c9214fa7dd9
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Defensive_Lv1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 064a2a9261bc397458e62ceb1036aea2
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_Defensive_Lv3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 260d9875d8ffc834abbed5c0b50bddbe
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_AttackUp_DefenseDown.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36b2b35f658b7a642849c67d29c0c8a2
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_Attack_Lv2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76215580f29459c4f95577f15a1012e0
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_MaxHp_Lv2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96d98e9264f323e4bac1917bebd9f897
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Attack_Lv5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 965a7f7372976fd47844e466f0acd6b7
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Dodge_Lv5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a64025a7befe69a408787025c5eba0c2
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_Dodge_Lv3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e621d86413db5474ca7fc93cbd33aa95
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_MoveSpeed_Lv3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1710ed10e0433824d8008b014f80605a
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_EvolutionTerm_Blood_Lv2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27808b072522f054e92420778243569b
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_Both_MaxhpUp.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 773ad8adc6b022740894c79f702043f6
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Attack_Lv2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7dc64189d54b15429822c952e7dc05e
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_MaxHp_Lv2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08a86bf215bf7bf4f93cfbc338f54ad2
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_MoveSpeed_Lv5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 382d89d8eec24e241921bd7c626173b0
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_EvolutionTerm_Blood_Lv4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 584b004284679f944a11412ac90935e6
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Attack_Lv3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 880c3072b96735e41a8dc009cf747120
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_MoveSpeed_Lv2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88afe79b0be979b42b04cc401b15b000
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_MaxHp_Lv3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a860c8791eeefc845babbe3b33902eff
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_EvolutionTerm_Bangalore_Lv4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e80841e53b33d4d4f9bb4b94c72a6897
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Dodge_Lv3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49c4086827b159649bd12a947dff2d41
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_MaxHp_Lv5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 894bfe75fc6b2cc478fd05088e1fbed4
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Attackspeed_Lv1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e94fa778efdbfd6468b54e645dd9251f
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_EvolutionTerm_Bangalore_Lv5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a28d0dde0e2c114f9b62ede887af801
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Movespeed_Lv4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a365594379bf7844b504719b89dbded
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_EvolutionTerm_Bangalore_Lv2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa381d475ebcb5345932262f87783f4b
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Movespeed_Lv3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dafaa8c4dafdce04ea40baa2f345e2fd
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_Dodge_Lv4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b7b39702e6fcb944b117fa363ca0b78
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_MaxHp_Lv1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b898184e6ff19544ba7ac2adf8b36d8
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_AttackSpeed_Lv4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b9907268082b094588ca11f8e3979d7
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_AttackSpeed_Lv3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b1ea4b3d2777504c8b1d0356a63f1e4
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_EvolutionTerm_Bangalore_Lv1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b43a07e2652aec4daafa7eb96d7e7f9
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_MaxHp_Lv3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab1cd3d011a97d547b2a0c5201f7ccc1
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_Dodge_Lv1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb8770f17a5bf5542b37d64af135bcff
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_EvolutionTerm_TrapItem.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbccb4f10ec12bb48a7eefe8d453d245
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_Dodge_Lv2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc6bf7cf5fb3f2e42b004ed907f37896
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_MaxHp_Lv5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc1e822e08605b2409075ff03b239c6b
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_Dodge_Lv5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d75056b36b4a044aae3e99c0f67a9f7
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Defensive_Lv2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad0cc4d4bcecc9c4cbeebdb84108ed28
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Movespeed_Lv5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd7d0931165009d4096f38eb34e221f7
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Attack_Lv1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd729d8071d5bc942a9ca2d82c0df1ba
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Attackspeed_Lv2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cdd9c092c62f6124caffc6ea1c1b3474
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Attackspeed_Lv3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e4cfd2012957e24e977b52f503d3825
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_EvolutionTerm_Blood_Lv3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e0282544b434e640aba761835ac4536
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_EvolutionTerm_Blood_Lv1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8edd9411c1b301a43b1f645cc0400ee0
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_EvolutionTerm_MarshItem.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de1a1487be4fa40489bf5242cba18442
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_MaxHp_Lv4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee8e671a916c2204aaa14b3cba1c9d42
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Dodge_Lv1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f3de6587853efc46b9dcba832d49f89
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_AttackSpeed_Lv1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fe7d47554e6a9447baf817dc076f2c5
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_Attack_Lv3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fcd09aab7fce9745a337385cf00fa80
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Dodge_Lv2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfdccd7c2cc3bd44d9a48fe84e17a841
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Malignancy_Movespeed_Lv2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfe3477dd6e321e4b86917b511a37dd6
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Benign_MoveSpeed_Lv1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfd49b8bc2d4eb445b2f6b2c27b6936f
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral_EvolutionTerm_Bangalore_Lv3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87642523049b54b45bdec7f700d1e919
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/AEvolutionTermDatabase.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed63ef6f63196c540a3607cf176e8433
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/AEvolutionTermDatabase_Learend.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce877b1016426214d951a307cfcdf010
+    m_Address: Assets/Sword/ScriptableObjects/EvolutionTerm/Neutral/Neutral_EvolutionTermTest.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbbc81539cee0d04bb1ea04a79efa609
+    m_Address: Assets/Sword/ScriptableObjects/Shop/PlayerGoldAttributesSO.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f15f44aa145c3bc449b9885d96f98ebe
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO/EnemyWaveDatabase.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1a643f56a9d977459f7d166c41db96c
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO/EnemyWaveSO 02.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d07a5bf615d19b4697a8348c518592d
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO/EnemyWaveSO 00.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94640b90545073e4a892153205722b42
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO/EnemyWaveSO 01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b171224b57c2b440a061e0aad790625
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO/EnemyWaveSO 03.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f1a1b4e10d1b72469b76e2b48ec0ee2
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO/EnemyWaveSO 04.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d1d69439ac7c1740bbdf9bbf19228c1
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO/EnemyWaveSO 05.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5796854043da0414592320c15b81d23e
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO/EnemyWaveSO 06.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 493b8ab8cae54f341b111d96c0e5abd6
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO/EnemyWaveSO 07.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67dc9e4c5c8098441a694e8b303d0d38
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO/EnemyWaveSO 08.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11ef99cb9cf84094ca1ab79a64305148
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO/EnemyWaveSO 09.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8df393be73804d74b9bfcbad1f609c6d
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO/EnemyWaveSO 10.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35c3f0992fcf34c4898bcac212d3d051
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO/EnemyWaveSO 11.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8afb6f9c9e64d254184c5ff6350de4b5
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO/EnemyWaveSO 12.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b836777aedc8ed40a3dbd221bdd53e9
+    m_Address: Assets/Sword/ScriptableObjects/SpawnSO/EnemyWaveSO 13.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbd9d8fa49007a24c9eb44f44fa7d1e8
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Character_Sword/States/CharaSword_Idle.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 113378a49c00b0d41b048a98d983dac1
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Character_Sword/States/CharaSword_Walk.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddf70514e4ac57344ae6fe511ae8ed9d
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Character_Sword/States/CharaSword_Roll.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 647caa276d9aca84da15859f8bac70e1
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Character_Sword/States/CharaSword_Attack.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67c0dacacf4ef234a9732a7f3861735f
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Character_Sword/States/CharaSword_Sprint.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c4f593a42289444c8fad07299a2b214
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Character_Sword/Conditions/RollCondition.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09e98cd0c36978743bb111c14da49c91
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Character_Sword/Actions/Walk_OnStateEnter.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3de103c327cefc4d8f09b48339222ad
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Character_Sword/Actions/Sprint_OnStateEnter.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 659d085c158b4d44b8bb4c9d6cf1e3ee
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Character_Sword/Actions/Roll_OnStateEnter.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c7d24691b34e6b449ac0e8514e8ddce
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Character_Sword/Actions/Idle_OnStateEnter.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c4bb75c821216148bcf764aa4c040fa
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Character_Sword/Actions/CharaSword_Roll.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01dd3ba4acfa9f24fadc03c003701980
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Character_Sword/Actions/Attack_OnStateEnter.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 793ff0c0c3f17c24f97e710ee68c440e
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Character_Sword/Actions/Attack_Chara.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e266c211a961aa498a0bc3e6fe1bcaa
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Character_Sword/Actions/Attack_AnimTrigger.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0e4923063927e14bbb30b183663277a
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Enemy_BossA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12c4b4a20d68c0544b88f879775efbfd
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Enemy_Bat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4e2a593700f9244ea4cdb398e4523ad
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Enemy_DarkMage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b50b0a15cacda740a3e3b770c9c3ca9
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Universal_Conditions
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cbc244d42dbe914eb0f8586a0e2f624
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Universal_Action
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e97469d0f575c34281ef1c405c3010b
+    m_Address: Assets/Sword/ScriptableObjects/StateMachine/Enemy_Tauren
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 951c2cc5c963c524f994111d55a5e0c0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: da6bddea9b1131b469e86e5f795a6353, type: 2}
+    - {fileID: 11400000, guid: 3669357d7c7455541a85860555c1042a, type: 2}

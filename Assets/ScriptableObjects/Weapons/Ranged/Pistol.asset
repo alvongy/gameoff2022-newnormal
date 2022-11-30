@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d6c456411f216148861dfd8b32cb435, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  _guid: 0bd186f656518564597119e4c3f34b01
+  _name:
+    m_TableReference:
+      m_TableCollectionName: GUID:695d8fb6b434f3744b2e77fa249bfcc2
+    m_TableEntryReference:
+      m_KeyId: 1412427092447232
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  _previewImage: {fileID: 0}
+  _description:
+    m_TableReference:
+      m_TableCollectionName: GUID:8e65baeb60e6a564ead2f44f5447299d
+    m_TableEntryReference:
+      m_KeyId: 1412107205464064
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  _healthResorationValue: 0
+  _itemType: {fileID: 11400000, guid: a159f7e570960d34a9cb2f09c66a9602, type: 2}
+  _prefab: {fileID: 1335983236109924456, guid: 2d15ddeb37675054baa25b2d56a2f02a, type: 3}
+  _weaponType: 1
+  _switchTime: 0.3
+  _shootingModes:
+  - {fileID: 11400000, guid: 635e7d196c9abf642b8b743009be6aee, type: 2}
+  references:
+    version: 1

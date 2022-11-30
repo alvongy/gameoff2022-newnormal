@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83b80451a620cc14791791d665e28668, type: 3}
+  m_Name: NormalBullet
+  m_EditorClassIdentifier: 
+  _guid: 4a20e06ed655c5242b8b19f631596a73
+  _name:
+    m_TableReference:
+      m_TableCollectionName: GUID:695d8fb6b434f3744b2e77fa249bfcc2
+    m_TableEntryReference:
+      m_KeyId: 2544455909232640
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  _previewImage: {fileID: 0}
+  _description:
+    m_TableReference:
+      m_TableCollectionName: GUID:8e65baeb60e6a564ead2f44f5447299d
+    m_TableEntryReference:
+      m_KeyId: 2544031860903936
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  _healthResorationValue: 0
+  _itemType: {fileID: 0}
+  _prefab: {fileID: 5218711412440320633, guid: fe1a845b269f41f4eaf6f83dbfefa7f9, type: 3}
+  bulletSpeed: 30.79
+  references:
+    version: 1

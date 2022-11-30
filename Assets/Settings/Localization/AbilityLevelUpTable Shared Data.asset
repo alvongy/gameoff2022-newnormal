@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: AbilityLevelUpTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: AbilityLevelUpTable
+  m_TableCollectionNameGuidString: 388b8bbab310e5a4384d3485acddee8b
+  m_Entries:
+  - m_Id: 144165019648
+    m_Key: DES_HUANRAOQIU_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 151941259264
+    m_Key: DES_HUANRAOQIU_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155296702464
+    m_Key: DES_HUANRAOQIU_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 517751676928
+    m_Key: DES_HUANRAOQIU_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2830393663791104
+    m_Key: AbilityLvUp_HUOQIUSHU_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2832178650521600
+    m_Key: AbilityLvUp_HUOQIUSHU_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2832183079706624
+    m_Key: AbilityLvUp_HUOQIUSHU_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2832185260744704
+    m_Key: AbilityLvUp_HUOQIUSHU_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2832873214681088
+    m_Key: AbilityLvUp_HANBINGJIAN_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2832874594607104
+    m_Key: AbilityLvUp_HANBINGJIAN_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2832875932590080
+    m_Key: AbilityLvUp_HANBINGJIAN_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2832877476093952
+    m_Key: AbilityLvUp_HANBINGJIAN_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2868735637954560
+    m_Key: AbilityLvUp_YUNSHISHU_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2868739698040832
+    m_Key: AbilityLvUp_YUNSHISHU_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2868741375762432
+    m_Key: AbilityLvUp_YUNSHISHU_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2868742919266304
+    m_Key: AbilityLvUp_YUNSHISHU_Lv4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2871989465751552
+    m_Key: AbilityLvUp_HUOYANLUJING_Lv1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2871990640156672
+    m_Key: AbilityLvUp_HUOYANLUJING_Lv2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2871991676149760
+    m_Key: AbilityLvUp_HUOYANLUJING_Lv3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2871992653422592
+    m_Key: AbilityLvUp_HUOYANLUJING_Lv4
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1663575042841

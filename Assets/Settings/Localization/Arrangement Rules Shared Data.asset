@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Arrangement Rules Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Arrangement Rules
+  m_TableCollectionNameGuidString: 7290bc4014718aa4e9213554a6e7485c
+  m_Entries:
+  - m_Id: 22119161856
+    m_Key: Rule_Line Red3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276889575424
+    m_Key: Rule_Line Green3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423417585664
+    m_Key: Rule_Line Blue3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 444791758848
+    m_Key: Rule_Line Red2Green1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 484385988608
+    m_Key: Rule_Line Red2Blue1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510789132288
+    m_Key: Rule_Line Green2Red1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 549682913280
+    m_Key: Rule_Line Green2Blue1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 570717347840
+    m_Key: Rule_Line Blue2Red1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 601721643008
+    m_Key: Rule_Line Blue2Green1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645443067904
+    m_Key: Rule_Line Red1Green1Blue1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 700975652864
+    m_Key: Rule_Oblique Red3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 759662354432
+    m_Key: Rule_Oblique Green3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980983193600
+    m_Key: Rule_Oblique Blue3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1016383119360
+    m_Key: Rule_Oblique Red1Green1Blue1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2565201174528
+    m_Key: Rule_Squares Red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2769346338816
+    m_Key: Rule_Squares Green
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2790917644288
+    m_Key: Rule_Squares Blue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3011835830272
+    m_Key: Rule_Homochromatic Red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3191352041472
+    m_Key: Rule_Homochromatic Green
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4769236623360
+    m_Key: Rule_Homochromatic Blue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7212552921088
+    m_Key: Rule_Alone Red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7277279420416
+    m_Key: Rule_Alone Green
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7296942317568
+    m_Key: Rule_Alone Blue
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1665645786667

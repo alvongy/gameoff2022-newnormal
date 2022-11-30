@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: AttributeName Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: AttributeName
+  m_TableCollectionNameGuidString: e4bfa85ebc25e9c4b92281a921cc1e2d
+  m_Entries:
+  - m_Id: 52301209600
+    m_Key: None_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248456224768
+    m_Key: 'TotalHp_1
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355222233088
+    m_Key: Recover_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430249943040
+    m_Key: AttackLowerLimit_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 560436944896
+    m_Key: AttackUpperLimit_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 637377257472
+    m_Key: MoveSpeed_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 676199735296
+    m_Key: AttackSpeed_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 915337977856
+    m_Key: Defense_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 977745027072
+    m_Key: Dodge_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1035290877952
+    m_Key: Vampire_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1062671294464
+    m_Key: CriticalRate_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1156283965440
+    m_Key: CriticalDamage_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1229097082880
+    m_Key: PenetrateDamage_12
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1667292165980

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: InventoryTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: InventoryTable
+  m_TableCollectionNameGuidString: 695d8fb6b434f3744b2e77fa249bfcc2
+  m_Entries:
+  - m_Id: 32780439552
+    m_Key: TestItem_00
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1404552546734080
+    m_Key: AssaultRifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412427092447232
+    m_Key: Pistol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2544455909232640
+    m_Key: NormalBullet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2544619243819008
+    m_Key: NormalArrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4704964720840704
+    m_Key: Cane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7622411585179648
+    m_Key: Knife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76009895227113472
+    m_Key: Soul_F
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98105754303045632
+    m_Key: Pray_Ice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98115160751185920
+    m_Key: Pray_General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98115325297926144
+    m_Key: Pray_Test
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1637832970323

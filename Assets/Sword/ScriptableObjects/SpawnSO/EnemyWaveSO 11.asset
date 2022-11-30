@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 722f42418eaffdc44994ba0b1acde986, type: 3}
+  m_Name: EnemyWaveSO 11
+  m_EditorClassIdentifier: 
+  _guid: 35c3f0992fcf34c4898bcac212d3d051
+  ID: 11
+  waves:
+  - zero: {x: 0, y: 0, z: 0}
+    enemy: {fileID: 0}
+    enemyId: 1
+    spawnCount: 1
+    spawnRate: 1
+    spawnduration: 1
+    spawnArea: 2
+    spawnAreaSizeMin: {x: 10, y: 10}
+    spawnAreaSizeMax: {x: 45, y: 45}
+    spawnRadiusMin: 30
+    spawnRadiusMax: 45
+  - zero: {x: 0, y: 0, z: 0}
+    enemy: {fileID: 0}
+    enemyId: 1
+    spawnCount: 20
+    spawnRate: 2
+    spawnduration: 90
+    spawnArea: 2
+    spawnAreaSizeMin: {x: 10, y: 10}
+    spawnAreaSizeMax: {x: 45, y: 45}
+    spawnRadiusMin: 30
+    spawnRadiusMax: 45

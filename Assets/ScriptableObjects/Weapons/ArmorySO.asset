@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c861c1f6a34f7474caf422611f5cd485, type: 3}
+  m_Name: ArmorySO
+  m_EditorClassIdentifier: 
+  _guid: 71c823ea9ef8d3142b9ce662f2ec33e4
+  description: 
+  weapons:
+  - {fileID: 11400000, guid: fd9dbb99979a1e74ea3a8ac1eb003da9, type: 2}
+  - {fileID: 11400000, guid: 53d5cf76baa26384fba613a280564288, type: 2}
+  - {fileID: 11400000, guid: 0bd186f656518564597119e4c3f34b01, type: 2}
+  - {fileID: 11400000, guid: 7940939835da4ea45b8ddd905cbc4907, type: 2}

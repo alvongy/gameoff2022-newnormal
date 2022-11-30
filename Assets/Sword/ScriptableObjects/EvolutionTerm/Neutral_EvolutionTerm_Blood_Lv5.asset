@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 553971cf9fadc904abe8a7f048bd08bf, type: 3}
+  m_Name: Neutral_EvolutionTerm_Blood_Lv5
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: targetAttributeDic
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[TargetObjectEnum, Assembly-CSharp],[System.Collections.Generic.Dictionary`2[[UpgradeAttribute,
+        Assembly-CSharp],[System.Single, mscorlib]], mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[TargetObjectEnum,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  ID: 2404
+  Name:
+    m_TableReference:
+      m_TableCollectionName: GUID:8b67fa4a2f6bb3b4ba44ba4e27e48eca
+    m_TableEntryReference:
+      m_KeyId: 4708663464517632
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  Description:
+    m_TableReference:
+      m_TableCollectionName: GUID:8b67fa4a2f6bb3b4ba44ba4e27e48eca
+    m_TableEntryReference:
+      m_KeyId: 4708663464517632
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  Icon: {fileID: 21300000, guid: 1a8d0948de2b22a438db0adc97af8912, type: 3}
+  termNum: 1
+  evolutionType: 1
+  evolutionQuality: 4
+  sceneItemType: 6
+  isRebirth: 1
+  sceneItemPrefab: {fileID: 5403850471801159029, guid: d285e2f0cff946342a1304ab753b1dad, type: 3}
+  references:
+    version: 1

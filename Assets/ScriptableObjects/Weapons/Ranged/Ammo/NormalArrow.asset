@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83b80451a620cc14791791d665e28668, type: 3}
+  m_Name: NormalArrow
+  m_EditorClassIdentifier: 
+  _guid: bebba4afb1f0d7f4687bded444c8e3c7
+  _name:
+    m_TableReference:
+      m_TableCollectionName: GUID:695d8fb6b434f3744b2e77fa249bfcc2
+    m_TableEntryReference:
+      m_KeyId: 2544619243819008
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  _previewImage: {fileID: 0}
+  _description:
+    m_TableReference:
+      m_TableCollectionName: GUID:8e65baeb60e6a564ead2f44f5447299d
+    m_TableEntryReference:
+      m_KeyId: 2544375001108480
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  _healthResorationValue: 0
+  _itemType: {fileID: 0}
+  _prefab: {fileID: 5218711412440320633, guid: c64a33f1a09d5664d8230643bb09be72, type: 3}
+  references:
+    version: 1

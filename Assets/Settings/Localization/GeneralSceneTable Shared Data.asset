@@ -1,0 +1,257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GeneralSceneTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GeneralSceneTable
+  m_TableCollectionNameGuidString: 25832e4bded11c147b95a5cf01eab414
+  m_Entries:
+  - m_Id: 3465017794560
+    m_Key: PlayerBasic_Bag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3675966119936
+    m_Key: 'PlayerBasicData_Energy
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3948734291968
+    m_Key: PlayerBasicData_Pray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4559756304384
+    m_Key: PlayerBasicData_LearnAbility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4768196435968
+    m_Key: PlayerBasicData_Ability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9782281347072
+    m_Key: Achievement_MapAchievement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9971662561280
+    m_Key: Achievement_LifePray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31683175227392
+    m_Key: Achievement_IceBall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31783897243648
+    m_Key: Achievement_Encircle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33898996670464
+    m_Key: TerrainPanel_MapBuff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52523375763456
+    m_Key: MapData_Mapdata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52650475757568
+    m_Key: MapData_Quest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52759389249536
+    m_Key: MapData_QuestNama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52760630763520
+    m_Key: MapData_EnemyData
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52763721965568
+    m_Key: MapData_Conceal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54265404432384
+    m_Key: MapData_Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54266138435584
+    m_Key: MapData_Enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55344573685760
+    m_Key: PopPanel_Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55430737272832
+    m_Key: PopPanel_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55439763415040
+    m_Key: PopPanel_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55440367394816
+    m_Key: 'PopPanel_Factions
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56381225279488
+    m_Key: PopPanel_Achievement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56593050214400
+    m_Key: PopPanel_LearnSkill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56962585174016
+    m_Key: GamePlayUI_CurrentQuest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57199173279744
+    m_Key: GamePlayUI_BackMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57295541608448
+    m_Key: GamePlayUI_QuestSuccess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57417209978880
+    m_Key: GamePlayUI_WUDI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57954684870656
+    m_Key: GamePlayUI_FANGUN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290043606835200
+    m_Key: GamePlayUI_QuestSuccessed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290163052224512
+    m_Key: GamePlayUI_ClickBackMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290587033444352
+    m_Key: GamePlayUI_PlayerDeath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 291827536601088
+    m_Key: TerrainSelectUI_SelectDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 291966682636288
+    m_Key: TerrainSelectUI_Choice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292085926699008
+    m_Key: TerrainSelectUI_ChapterOver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292373312020480
+    m_Key: TerrainSelectUI_Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723255843856384
+    m_Key: "PopPanel_Punishment\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723416636694528
+    m_Key: "PopPanel_Punishment\rName"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2856663269220352
+    m_Key: TerrainPanel_MapBuffRule
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150887938957312
+    m_Key: SkillCardSelectPanel_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10552362635075584
+    m_Key: TerrainSelectUI_AttackBoss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11236846602788864
+    m_Key: GamePlayUI_Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11236949510037504
+    m_Key: 'GamePlayUI_Continue
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14171823770411008
+    m_Key: "PopPanel_Reward\rName"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14437832129486848
+    m_Key: TerrainPanel_SkillPreview
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14491583167045632
+    m_Key: "PopPanel_SkillDescription\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32625829287010304
+    m_Key: GamePlayUI_Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32626044396085248
+    m_Key: GamePlayUI_EliminateEffect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32627491770703872
+    m_Key: GamePlayUI_CurrentEquip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32630162133065728
+    m_Key: GamePlayUI_BenignEvolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32630257658339328
+    m_Key: GamePlayUI_NeutralEvolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32630338050564096
+    m_Key: GamePlayUI_MalignancyEvolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32639551506194432
+    m_Key: GamePlayUI_SelectEvolvement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32639824135954432
+    m_Key: GamePlayUI_InsufficientGold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33286447778209792
+    m_Key: GamePlayUI_Refresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33370005515509760
+    m_Key: GamePlayUI_Again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33374538924793856
+    m_Key: GamePlayUI_ThanksPlay
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1661842048244
